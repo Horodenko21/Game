@@ -1,0 +1,49 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/leoho/Desktop/Creativity/Kori/Content/StarterContent/Audio/Collapse01.uasset",
+				"C:/Users/leoho/Desktop/Creativity/Kori/Content/Kori/Char_Animations/Locomotion/Idle_Break.uasset",
+				"C:/Users/leoho/Desktop/Creativity/Kori/Content/Kori/Char_Animations/Locomotion/Walk_Stop.uasset",
+				"C:/Users/leoho/Desktop/Creativity/Kori/Content/Kori/Char_Animations/Crouch/Crouch_Idle.uasset",
+				"C:/Users/leoho/Desktop/Creativity/Kori/Content/Kori/Char_Animations/Crouch/Crouh_Walk.uasset",
+				"C:/Users/leoho/Desktop/Creativity/Kori/Content/Kori/Char_Animations/Locomotion/LocomotionBlendSpace1D.uasset",
+				"C:/Users/leoho/Desktop/Creativity/Kori/Content/Kori/Char_Animations/ABP_Char.uasset",
+				"C:/Users/leoho/Desktop/Creativity/Kori/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/leoho/Desktop/Creativity/Kori/Content/Kori/Char_Animations/Crouch/CrouchedBlendSpace1D.uasset",
+				"C:/Users/leoho/Desktop/Creativity/Kori/Content/ThirdPerson/Input/Actions/IA_Crouch.uasset",
+				"C:/Users/leoho/Desktop/Creativity/Kori/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"C:/Users/leoho/Desktop/Creativity/Kori/Content/Kori/Char_Animations/Lean/Lean_Left.uasset",
+				"C:/Users/leoho/Desktop/Creativity/Kori/Content/Kori/Char_Animations/Lean/Lean_Right.uasset",
+				"C:/Users/leoho/Desktop/Creativity/Kori/Content/Kori/Char_Animations/Lean/LeanBlendSpace1D.uasset",
+				"C:/Users/leoho/Desktop/Creativity/Kori/Content/Characters/Mannequins/Materials/Instances/Manny/MI_Manny_Green.uasset",
+				"C:/Users/leoho/Desktop/Creativity/Kori/Content/Characters/Mannequins/Materials/Instances/Manny/MI_Manny_Green2.uasset",
+				"C:/Users/leoho/Desktop/Creativity/Kori/Content/Kori/Char_Animations/Parkour/VaultOver.uasset",
+				"C:/Users/leoho/Desktop/Creativity/Kori/Content/Kori/Char_Animations/Parkour/VaultOver_Montage.uasset",
+				"C:/Users/leoho/Desktop/Creativity/Kori/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/9X/LUQCX0Q6OG8K8ACFPIALYX.uasset",
+				"C:/Users/leoho/Desktop/Creativity/Kori/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/S6/FTPDKRTDC88CVWNE0ZXA7P.uasset",
+				"C:/Users/leoho/Desktop/Creativity/Kori/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/TM/396ZSMFK6OMSRVZPJ356AM.uasset",
+				"C:/Users/leoho/Desktop/Creativity/Kori/Content/Kori/Char_Animations/Assassinations/UE4/Paired_Knife_Stealth_KidneyAndNeck_Att.uasset",
+				"C:/Users/leoho/Desktop/Creativity/Kori/Content/Kori/Char_Animations/Assassinations/UE4/Paired_Knife_Stealth_KidneyAndNeck_Vic.uasset",
+				"C:/Users/leoho/Desktop/Creativity/Kori/Content/Kori/Char_Animations/Assassinations/Paired_Knife_Stealth_KidneyAndNeck_Vic.uasset",
+				"C:/Users/leoho/Desktop/Creativity/Kori/Content/Kori/Char_Animations/Assassinations/Paired_Knife_Stealth_KidneyAndNeck_Att.uasset",
+				"C:/Users/leoho/Desktop/Creativity/Kori/Content/Kori/Char_Animations/Assassinations/Paired_Knife_Stealth_KidneyAndNeck_Att_Montage.uasset",
+				"C:/Users/leoho/Desktop/Creativity/Kori/Content/ThirdPerson/Input/Actions/IA_Vault.uasset",
+				"C:/Users/leoho/Desktop/Creativity/Kori/Content/ThirdPerson/Input/Actions/IA_Assassin.uasset",
+				"C:/Users/leoho/Desktop/Creativity/Kori/Content/Kori/Blueprints/BP_Dummy.uasset",
+				"C:/Users/leoho/Desktop/Creativity/Kori/Content/Kori/Blueprints/BPI_Assassination.uasset",
+				"C:/Users/leoho/Desktop/Creativity/Kori/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/OH/7XH18LTGZKBXRXT3KCEGE8.uasset",
+				"C:/Users/leoho/Desktop/Creativity/Kori/Content/Kori/Char_Animations/Assassinations/Paired_Knife_Stealth_KidneyAndNeck_Vic_Montage.uasset",
+				"C:/Users/leoho/Desktop/Creativity/Kori/Content/Kori/UI/WB_AssassinatePrompt.uasset",
+				"C:/Users/leoho/Desktop/Creativity/Kori/Content/Kori/Char_Animations/Crouch_Idle.uasset",
+				"C:/Users/leoho/Desktop/Creativity/Kori/Content/Kori/Char_Animations/Crouh_Walk.uasset",
+				"C:/Users/leoho/Desktop/Creativity/Kori/Content/Kori/Char_Animations/Idle_Break.uasset",
+				"C:/Users/leoho/Desktop/Creativity/Kori/Content/Kori/Char_Animations/Walk_Stop.uasset",
+				"C:/Users/leoho/Desktop/Creativity/Kori/Content/Kori/Char_Animations/Crouch/Crouch.uasset"
+			]
+		}
+	]
+}
